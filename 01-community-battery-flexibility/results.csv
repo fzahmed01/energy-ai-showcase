@@ -1,0 +1,4 @@
+,Grid peak (kW),Grid import (MWh/yr),Export to grid (MWh/yr),Electricity cost ($/yr),Emissions (t CO2/yr)
+A. PV only,49.06,94.43,28.21,28916.99,14.87
+B. Individual batteries,42.83,79.88,10.91,21854.54,12.43
+C. Community-shared batteries,29.69,75.73,6.09,21455.26,11.82
