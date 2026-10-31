@@ -7,7 +7,8 @@ Each project asks one question that matters for energy communities, flexibility 
 | # | Project | Question | Headline |
 |:-:|:--|:--|:--|
 | 01 | [Community battery flexibility](01-community-battery-flexibility/) | Does running home batteries together beat running them alone? | Shared operation cuts the community's grid peak by 40% |
+| 02 | [EU funding radar](02-eu-funding-radar/) | Which Horizon Europe energy topics are still worth chasing? | 54 of 95 Cluster 5 topics are still live; 3 fit energy communities, flexibility and AI strongly |
 
-**Coming next:** an EU funding radar for clean energy calls, and AI tools for Horizon Europe proposal writing.
+**Coming next:** AI tools for Horizon Europe proposal writing.
 
 Get in touch via [LinkedIn](https://www.linkedin.com/in/fzahmed01) or [my website](https://fzahmed01.github.io).
